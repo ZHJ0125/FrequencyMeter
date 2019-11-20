@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIYPOUQA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FrequencyMeter\Design Rule Check - FrequencyMeter.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
