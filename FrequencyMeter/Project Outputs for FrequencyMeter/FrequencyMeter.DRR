@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FrequencyMeter.PcbDoc   11/20/2019  7:56:16 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FrequencyMeter.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             9         PTH        1.94inch (49.20mm)
+T2      28mil (0.711mm)                                           Round             3         PTH        1.16inch (29.54mm)
+T3      30mil (0.759mm)                                           Round             20        PTH        2.11inch (53.66mm)
+T4      30mil (0.762mm)                                           Round             12        PTH        1.60inch (40.64mm)
+T5      32mil (0.8mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T6      33mil (0.85mm)                                            Round             16        PTH        4.35inch (110.46mm)
+T7      35mil (0.9mm)                                             Round             23        PTH        6.71inch (170.40mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              85
+
+Total Processing Time (hh:mm:ss) : 00:00:00
