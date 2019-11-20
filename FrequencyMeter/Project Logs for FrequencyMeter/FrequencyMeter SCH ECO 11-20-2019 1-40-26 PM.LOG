@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIODE-0.7 New Footprint=DIODE-0.4
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=RAD-0.1
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23B_N New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23B_N New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q3 Old Footprint=SOT-23B_N New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q4 Old Footprint=SOT-23B_N New Footprint=TO-226-AA
+Change Component Footprint: Designator=R2 Old Footprint=VR3 New Footprint=VR5
