@@ -22,6 +22,6 @@
 > 3. Real object
 > 
 
-<div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/PCB_front.JPG"/></div>
+<div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/PCB_Front.png"/></div>
 
-<div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/PCB_back.JPG"/></div>
+<div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/PCB_Back.png"/></div>
