@@ -17,3 +17,11 @@
 <div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/120_Show_PcbDoc1.png"/></div>
 
 <div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/122_Show_PcbDoc2.png"/></div>
+
+> 
+> 3. Real object
+> 
+
+<div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/PCB_Front.jpg"/></div>
+
+<div align=center><img width="500" height="350" src="http://47.95.13.239/Study/PCB/Show/PCB_Back.jpg"/></div>
