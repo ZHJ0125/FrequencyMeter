@@ -6,22 +6,22 @@
 > 1. Schematic
 >
 
-<div align=center><img width="900" height="600" src="https://zhj0125.com/Study/PCB/Show/119_Show_SchDoc.png"/></div>
+![119_Show_SchDoc](image/119_Show_SchDoc.png)
 
 >
 > 2. PCB Circuit
 > 
 
-<div align=center><img width="500" height="350" src="https://zhj0125.com/Study/PCB/Show/121_Show_PcbDoc3.png"/></div>
+![121_Show_PcbDoc3](image/121_Show_PcbDoc3.png)
 
-<div align=center><img width="500" height="350" src="https://zhj0125.com/Study/PCB/Show/120_Show_PcbDoc1.png"/></div>
+![120_Show_PcbDoc1](image/120_Show_PcbDoc1.png)
 
-<div align=center><img width="500" height="350" src="https://zhj0125.com/Study/PCB/Show/122_Show_PcbDoc2.png"/></div>
+![122_Show_PcbDoc2](image/122_Show_PcbDoc2.png)
 
 > 
 > 3. Real object
 > 
 
-<div align=center><img width="500" height="350" src="https://zhj0125.com/Study/PCB/Show/PCB_Front.jpg"/></div>
+![122_Show_PcbDoc2](image/PCB_Front.jpg)
 
-<div align=center><img width="500" height="350" src="https://zhj0125.com/Study/PCB/Show/PCB_Back.jpg"/></div>
+![122_Show_PcbDoc2](image/PCB_Back.jpg)
